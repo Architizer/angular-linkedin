@@ -45,7 +45,7 @@ angular
       // Create the script element
       var script = document.createElement('script');
       script.type = 'text/javascript';
-      script.src = 'http://platform.linkedin.com/in.js';
+      script.src = '//platform.linkedin.com/in.js';
 
       // Set configuration options on the sdk
       var attributes = [];
